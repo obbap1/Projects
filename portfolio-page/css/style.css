@@ -1,0 +1,26 @@
+p {
+  font-size:17px;
+
+}
+body {
+  padding-top:60px;
+  background-color:#DDDDDD;
+}
+.fa {
+  color:black;
+}
+.btn-primary {
+  background-color:black;
+}
+#basic {
+  text-align:center;
+  font-weight:bold;
+  text-decoration:underline;
+  font-size:19px;
+}
+a {
+  color:black;
+}
+#ami {
+  padding-top:19px;
+}
